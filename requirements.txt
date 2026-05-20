@@ -1,3 +1,6 @@
 pandas
+numpy
 matplotlib
-jupyter
+seaborn
+xgboost
+scikit-learn
