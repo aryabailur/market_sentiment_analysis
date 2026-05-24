@@ -1,6 +1,6 @@
 # Trading Behavior & Market Sentiment Analysis
 
-Primetrade.ai Internship Task
+
 
 ## What this is
 
